@@ -5,6 +5,8 @@
 - Jupyter Notebook
 #### Language Used:
 - Python 3.10.3 version
+#### Dataset used:
+- Big sales data from YBI dataset
 #### Python Libraries used:
 - pandas
 - numpy
